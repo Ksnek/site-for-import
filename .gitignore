@@ -1,0 +1,12 @@
+# Системные файлы macOS/Windows
+.DS_Store
+Thumbs.db
+
+# Служебные каталоги IDE
+.idea/
+.vscode/
+.backup/
+
+# Временные файлы и папки
+*~
+tmp/
